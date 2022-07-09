@@ -1,3 +1,22 @@
+thisthis is a file 1st commit
+
+this is a 2nd commit
+
+this is 3rd commit
+
+this is 4th commit
+
+this is 5th commit
+
+this is new change
+
+this is bug change
+
+this is f1 change
+
+this is stash change
+
+
 this is a file 1st commit
 
 this is a 2nd commit
@@ -22,4 +41,31 @@ Included user responsibilities about Operating System updates,
 Security patches and Antivirus definitions under section 4.1.
 this is new change
 
+this is bug change
+
 this is f1 change
+
+this is stash change
+
+
+ is a file 1st commit
+
+this is a 2nd commit
+
+this is 3rd commit
+
+this is 4th commit
+
+this is 5th commit
+
+this is new change
+
+this is bug change
+
+this is f1 change
+
+this is stash change
+
+
+this is f1 change
+
